@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nike",
+      "description": "Nike WMNS Air Jordan 1 MID",
+      "imageUrl": "https://sklep.sizeer.com/media/cache/gallery/rc/y32g6gwv/nike-wmns-air-jordan-1-mid-damskie-sneakersy-czarny-bq6472-012_4.jpg",
+      "price" :305
+    },
+    {
+      "id": 2,
+      "name": "Nike",
+      "description": "Nike Jordan Max Aura 2 CK6631",
+      "imageUrl": "https://image.ceneostatic.pl/data/products/98523440/i-buty-nike-jordan-max-aura-2-ck6636-001.jpg",
+      "price" :310
+    },
+    {
+      "id": 3,
+      "name": "Adidas",
+      "description": "Adidas Hoops MID F99521",
+      "imageUrl": "https://a.allegroimg.com/s712/11e7da/5132aeb94d748ccd9c6d1b7558cb/ADIDAS-HOOPS-MID-F99521-WYSOKIE-ZA-KOSTKE-Kolor-czarny.jpg",
+      "price" :280
+    },
+    {
+      "id": 4,
+      "name": "Adidas",
+      "description": "Adidas Hoops 2.0 MID",
+      "imageUrl": "https://galeriamarek.pl/media/cache/gallery/rc/vg7moele/adidas-hoops-2-0-mid-meskie-sneakersy-szary-b44670_3.jpg",
+      "price" :280
+    },
+    {
+      "id": 5,
+      "name": "Puma",
+      "description": "Puma X-RAY 2 SQUARE JR",
+      "imageUrl": "https://sklep.sizeer.com/media/cache/gallery/rc/asfcfopb/puma-x-ray-2-square-jr-mlodziezowe-sneakersy-multicolor-37419006_3.jpg",
+      "price" :205
+    },
+    {
+      "id": 6,
+      "name": "Puma",
+      "description": "Puma Enzo 2 Uncaged 195106 09",
+      "imageUrl": "https://img.eobuwie.cloud/eob_product_256w_256h(f/6/8/1/f681fa3952ac467855b927bd675016917257d49f_0000208883252_01_fp.jpg,jpg)/superge-puma-rebound-joy-jr-374687-02-puma-white-puma-black.jpg",
+      "price" :140
+    }
+  ],
+  "cart":[
+
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
