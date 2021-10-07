@@ -24,3 +24,16 @@
     color: red;
     cursor: pointer;
 }
+.guest-form-card h2{
+text-transform: uppercase;
+font-size: medium;
+
+}
+.guest-form-card label{
+    font-size: small;
+    
+    }
+
+.btn-primary.diabled, .btn-primary:disabled{
+    cursor: not-allowed;
+}
